@@ -100,7 +100,7 @@ I am a software engineer focused on building **AI-native applications**, **auton
 
 ---
 
-### 3. [MediRoutine](https://github.com/manishvarma2972-stack/mediroutine) &bull; Local-First Sequential Medication Companion
+### 3. MediRoutine &bull; Local-First Sequential Medication Companion *(Private Architecture)*
 *Offline-first Flutter mobile application with dynamic sequential dose timing and Android 16 exact alarms.*
 
 - **Problem**: Standard reminder apps fire all alarms at arbitrary fixed clocks, failing patients whose medicine regimens require sequential intervals (e.g., Dose B strictly 30 minutes after Dose A is consumed).
